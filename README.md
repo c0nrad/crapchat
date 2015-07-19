@@ -1,4 +1,4 @@
 # Crapchat
 
-Snapchat for crap
+Crappy snapchat
 
